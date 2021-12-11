@@ -1,7 +1,7 @@
 # NAUS
 This repo contains the code to replicate experiments in [Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization](https://openreview.net/forum?id=UNzc8gReN7m).
 
-Model Performance under the Supervised Setting
+Additional Results: Supervised Summarization
 =======
 
 
